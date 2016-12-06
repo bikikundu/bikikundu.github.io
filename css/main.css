@@ -665,8 +665,8 @@ Change widths as necessary
 
   /* Sidebar */
   .sidebar{
-   padding-left: 20px;
-   border-left: 1px solid #f1f1f1;
+   padding-left: 0px;
+   border-left: 0px solid #f1f1f1;
  }
  /* COLUMN GRID */
  .g1,.g2,.g3 {display:inline; float: left}
